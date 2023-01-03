@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aadi/static/css/main.e6191716.css",
+    "main.js": "/aadi/static/js/main.60e3c072.js",
+    "static/media/us.jpg": "/aadi/static/media/us.a3d01ff047dec0c1b886.jpg",
+    "static/media/stars.jpg": "/aadi/static/media/stars.cbe850bc1ddb2cfbd7bb.jpg",
+    "static/media/hearts.jpg": "/aadi/static/media/hearts.9e8f8babf1b7595a1c85.jpg",
+    "static/media/line.jpg": "/aadi/static/media/line.ceddcf3c9a7fc22c35e6.jpg",
+    "static/media/balloons.jpg": "/aadi/static/media/balloons.bc4c028d1efce1807270.jpg",
+    "static/media/balloon.jpg": "/aadi/static/media/balloon.3310e2add256cada00a0.jpg",
+    "static/media/star.jpg": "/aadi/static/media/star.57983d9d059d8b05c21a.jpg",
+    "static/media/hbd.jpg": "/aadi/static/media/hbd.4b7d55abe5c01152ffcc.jpg",
+    "index.html": "/aadi/index.html",
+    "main.e6191716.css.map": "/aadi/static/css/main.e6191716.css.map",
+    "main.60e3c072.js.map": "/aadi/static/js/main.60e3c072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6191716.css",
+    "static/js/main.60e3c072.js"
+  ]
+}
